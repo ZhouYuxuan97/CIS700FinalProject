@@ -18,5 +18,5 @@ local folders named "models" and "loss" have been filled with my trained result.
 
 Run plot.py can directly generate the same plot I showed in the final report. If you want to retrain the model, please remove all files under "models" and "loss" folders and run main.py. 
 
-Notice: If you delete the generated vocab file, main.py may take a long time to regenerate it, I suggest keeping it to save time.
+Notice:  main.py may take a long time to generate the vocab file, I suggest download this file from my Google Drive [link](https://drive.google.com/file/d/1Ru3EmKixqoTip3BEpxJqqTid4_K-tpoU/view?usp=sharing) and place it to the root folder(same with main.py) to save time.
 
